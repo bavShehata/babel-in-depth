@@ -1,0 +1,25 @@
+{
+  "name": "babel-in-depth",
+  "version": "1.0.0",
+  "description": "Laerning babel without a build system like webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bavShehata/babel-in-depth.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bavShehata/babel-in-depth/issues"
+  },
+  "homepage": "https://github.com/bavShehata/babel-in-depth#readme",
+  "devDependencies": {
+    "@babel/cli": "*",
+    "@babel/core": "*",
+    "@babel/plugin-transform-arrow-functions": "*"
+  }
+}
